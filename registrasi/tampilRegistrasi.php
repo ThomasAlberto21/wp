@@ -12,7 +12,7 @@
 
 <body>
     <h1>Data Registrasi</h1>
-    <table style="width:20%" border="1">
+    <table style="width:30%" border="1">
         <tr>
             <td>Nama</td>
             <td><?php echo $_POST['nama'] ?></td>
